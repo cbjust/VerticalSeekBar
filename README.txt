@@ -1,0 +1,3 @@
+1.onSizeChanged、onMeasure方法中参数置换
+2.onDraw方法中对Canvas对象翻转/平移时，需要保证Canvas的左上角坐标不变
+3.onTouchEvent方法中对progress值进行计算
